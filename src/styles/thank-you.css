@@ -1,0 +1,12 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Poppins&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,500;1,700&display=swap');
+
+.thank__you span i{
+    font-size: 4rem;
+    color: green;
+}
+
+.thank__you h1{
+    font-size: 3.6 rem;
+    font-family: island Moment, cursive;
+}
