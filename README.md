@@ -1,3 +1,7 @@
+# Screenshot of webpage.
+
+![alt text](https://github.com/aditya-k-maurya/tour-booking/blob/main/src/assets/tour-booking.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
