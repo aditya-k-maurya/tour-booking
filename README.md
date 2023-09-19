@@ -1,6 +1,6 @@
 # Screenshot of webpage.
 
-![alt text]([https://github.com/aditya-k-maurya/weather-app/blob/main/weatherApp.png)](https://github.com/aditya-k-maurya/tour-booking/blob/main/src/assets/tour-booking.png)
+![alt text](https://github.com/aditya-k-maurya/tour-booking/blob/main/src/assets/tour-booking.png)
 
 # Getting Started with Create React App
 
