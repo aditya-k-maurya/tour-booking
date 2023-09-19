@@ -1,6 +1,8 @@
-# Screenshot of webpage.
+# Screenshots of webpage.
 
 ![alt text](https://github.com/aditya-k-maurya/tour-booking/blob/main/src/assets/tour-booking.png)
+
+![alt text](https://github.com/aditya-k-maurya/tour-booking/blob/main/src/assets/tour-booking-2.png)
 
 # Getting Started with Create React App
 
