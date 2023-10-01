@@ -20,6 +20,10 @@ const nav__links=[
 }
 ]
 
+function navClick(){
+  
+}
+
 
 const Header = () => {
 
@@ -50,6 +54,8 @@ const Header = () => {
           </div>
           {/* =======logo end======= */}
 
+
+          
           {/* =======menu start======= */}
           <div className="navigation">
             <ul className="menu d-flex align-items-center gap-5">{nav__links.map((item, index) => (
@@ -70,7 +76,7 @@ const Header = () => {
             </div>
 
             <span className='mobile__menu'>
-              <i className='ri-menu-line'></i>
+              <i className='ri-menu-line' onClick={navClick()}></i>
             </span>
           </div>
         </div>
